@@ -1,4 +1,4 @@
-# Discounts-for-Eniac
+# Are discounts beneficial for Eniac?
 This teamwork project was completed as part of the Data Analyst Intensive Bootcamp at WBS Coding School. The objective was to analyze data and provide insights to help Eniac decide whether or not it’s beneficial to discount products.
 ## Summary
 The Marketing Team Lead of the Eniac is convinced that offering discounts is beneficial in the long run by improving customer acquisition, satisfaction, and retention, and allowing the company to grow.
